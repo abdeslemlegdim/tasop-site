@@ -2,7 +2,7 @@ export const site = {
   name: "TASOP",
   meaning: "Technology for AI, Systems, and Optimized Processing",
   industry: "Artificial Intelligence, Computer Vision, Data Engineering",
-  location: "Sydney, Australia",
+  location: "Based in Surry Hills, Sydney NSW, Australia",
   hero: {
     headline: "Engineering Intelligent Systems",
     rotatingWords: ["Intelligent", "Scalable", "Reliable", "Powerful"],
@@ -139,7 +139,7 @@ export const site = {
   ],
   contact: {
     email: "contact@tasop.tech",
-    location: "Sydney, Australia",
+    location: "Based in Surry Hills, Sydney NSW, Australia",
   },
   footerTagline: "Intelligence, Engineered.",
 };
