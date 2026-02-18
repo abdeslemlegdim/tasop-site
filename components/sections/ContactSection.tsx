@@ -26,7 +26,7 @@ export default function ContactSection() {
         </div>
 
         <a
-          href={`mailto:${site.contact.email}`}
+          href={`mailto:${site.contact.email}?subject=${encodeURIComponent("I have a business idea")}`}
           className="section-fade delay-2 inline-flex items-center px-10 py-4 bg-accent text-bg text-sm font-semibold tracking-[0.15em] uppercase rounded-full transition-all duration-300 hover:shadow-glow"
         >
           Get in Touch

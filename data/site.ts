@@ -138,7 +138,7 @@ export const site = {
     "Automation",
   ],
   contact: {
-    email: "hello@tasop.com",
+    email: "contact@tasop.tech",
     location: "Sydney, Australia",
   },
   footerTagline: "Intelligence, Engineered.",

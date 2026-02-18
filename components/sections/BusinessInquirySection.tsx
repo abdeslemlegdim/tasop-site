@@ -39,7 +39,7 @@ export default function BusinessInquirySection() {
               </span>
               <div>
                 <p className="text-sm text-white font-medium mb-0.5">Email</p>
-                <p className="text-sm text-muted">business@tasop.com</p>
+                <p className="text-sm text-muted">contact@tasop.tech</p>
               </div>
             </div>
             <div className="flex items-start gap-4">
